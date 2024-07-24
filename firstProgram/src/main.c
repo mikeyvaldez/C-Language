@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// The following code displays a hello world message to the console
 int main(int argc, char **argv){
 
     printf("Hello World!\n");
@@ -10,7 +10,7 @@ int main(int argc, char **argv){
 
 
 
-
+// The following code takes user input (integer) and displays a message along with the number the user put in
 // int main() {
 //     int myFavoriteNumber = 0;
 
