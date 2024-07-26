@@ -4,6 +4,7 @@
 // it takes in an integer then a string and displays the output
 
 int main() {
+
     char str[100];
     int i;
 
@@ -13,4 +14,5 @@ int main() {
     printf("\nYou entered: %d:::::%s\n", i, str);
 
     return 0;
+    
 }
