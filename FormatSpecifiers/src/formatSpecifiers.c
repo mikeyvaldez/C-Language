@@ -22,7 +22,7 @@ int main(void) {
     printf("integerVar = %i\n", integerVar);
     printf("floatingVar = %f\n", floatingVar);
     printf("doubleVar = %e\n", doubleVar);
-    printf("doubleVar = %g\n", doubleVar);
+    printf("doubleVar = %lg\n", doubleVar);
     printf("charVar = %c\n", charVar);    
     printf("boolVar = %i\n", boolVar);
     printf("boolVar = %u\n", boolVar2);
